@@ -1,0 +1,4 @@
+admin123
+msfadmin
+pass123
+password1
